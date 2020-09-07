@@ -11,6 +11,12 @@ export default {
       title: 'Title',
       description: 'Titles should be catchy, descriptive, and not too long'
     },
+       {
+      name: 'video',
+      type: 'string',
+      title: 'Video link',
+      description: 'Link for video'
+    },
     {
       name: 'slug',
       type: 'slug',
